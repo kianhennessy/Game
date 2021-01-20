@@ -5,7 +5,7 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-[Bb]uild/
+#[Bb]uild/
 [Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
@@ -30,7 +30,7 @@ Assets/AssetStoreTools*
 ExportedObj/
 .consulo/
 *.csproj
-*.unityproj
+#*.unityproj
 *.sln
 *.suo
 *.tmp
