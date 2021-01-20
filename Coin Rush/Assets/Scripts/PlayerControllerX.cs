@@ -109,6 +109,5 @@ public class PlayerControllerX : MonoBehaviour
         UpdateScore(0);
         playGame.gameObject.SetActive(false);
 
-
     }
 }
